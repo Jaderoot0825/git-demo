@@ -1,0 +1,33 @@
+{
+    "list":[
+        {
+         "user":"zhangsan",
+         "describe":"张三",
+         "img":"../images/boy.jpg",
+         "count":"2",
+         "id":"1"
+        },
+        {
+         "user":"lisi",
+         "describe":"李四",
+         "img":"../images/girl.jpg",
+         "count":"1",
+         "id":"2"
+        },
+        {
+         "user":"wangwu",
+         "describe":"王五",
+         "img":"../images/taiyang.jpg",
+         "count":"999",
+         "id":"3"
+        },
+        {
+            "user":"zyg",
+            "describe":"张玉根  ",
+            "img":"../images/flow.jpg",
+            "count":"999",
+            "id":"3"
+           }
+      
+    ]
+}

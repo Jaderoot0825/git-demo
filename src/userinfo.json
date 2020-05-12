@@ -1,0 +1,144 @@
+{
+    "wangwu":[
+        {
+         "user":"男孩",
+         "describe":"我是一个男孩",
+         "img":"../images/boy.jpg",
+         "count":"2",
+         "id":"1"
+        },
+        {
+         "user":"女孩",
+         "describe":"我是一个女孩",
+         "img":"../images/girl.jpg",
+         "count":"1",
+         "id":"2"
+        },
+        {
+         "user":"太阳",
+         "describe":"我就是个太阳",
+         "img":"../images/taiyang.jpg",
+         "count":"999",
+         "id":"3"
+        }
+      
+       
+        
+    ],
+    "zhangsan":[
+     {
+      "user":"男孩",
+      "describe":"我是一个男孩",
+      "img":"../images/boy.jpg",
+      "count":"2",
+      "id":"1"
+     },
+     {
+      "user":"女孩",
+      "describe":"我是一个女孩",
+      "img":"../images/girl.jpg",
+      "count":"1",
+      "id":"2"
+     },
+     {
+      "user":"太阳",
+      "describe":"我就是个太阳",
+      "img":"../images/taiyang.jpg",
+      "count":"999",
+      "id":"3"
+     },
+     {
+      "user":"叮当猫",
+      "describe":"叮当猫什么都有",
+      "img":"../images/dingdang.jpg",
+      "count":"0",
+      "id":"4"
+     },
+     {
+      "user":"狗",
+      "describe":"你是一条狗嘛？",
+      "img":"../images/dog.jpg",
+      "count":"5",
+      "id":"5"
+     },
+     {
+      "user":"花",
+      "describe":"好漂亮的花呀",
+      "img":"../images/flow.jpg",
+      "count":"6",
+      "id":"6"
+     },
+     {
+      "user":"你好过分哦",
+      "describe":"我很过分吗",
+      "img":"../images/guofen.jpg",
+      "count":"85",
+      "id":"7"
+     }, {
+      "user":"一条龙",
+      "describe":"想要一条龙的服务",
+      "img":"../images/long.jpg",
+      "count":"16",
+      "id":"8"
+     }
+     , {
+      "user":"仙女",
+      "describe":"仙女你会骂人吗",
+      "img":"../images/xiannv.jpg",
+      "count":"21",
+      "id":"9"
+     },
+     {
+      "user":"TIMI",
+      "describe":"想跟我一起玩游戏吗",
+      "img":"../images/timg.jpg",
+      "count":"31",
+      "id":"10"
+     }
+    
+     
+ ],
+ "lisi":[
+     {
+      "user":"男孩",
+      "describe":"我是一个男孩",
+      "img":"../images/boy.jpg",
+      "count":"2",
+      "id":"1"
+     },
+     {
+      "user":"女孩",
+      "describe":"我是一个女孩",
+      "img":"../images/girl.jpg",
+      "count":"1",
+      "id":"2"
+     },
+     {
+      "user":"太阳",
+      "describe":"我就是个太阳",
+      "img":"../images/taiyang.jpg",
+      "count":"999",
+      "id":"3"
+     },
+     {
+      "user":"叮当猫",
+      "describe":"叮当猫什么都有",
+      "img":"../images/dingdang.jpg",
+      "count":"0",
+      "id":"4"
+     },
+     {
+      "user":"狗",
+      "describe":"你是一条狗嘛？",
+      "img":"../images/dog.jpg",
+      "count":"5",
+      "id":"5"
+     }
+     
+ ]
+    
+ 
+ }
+ 
+ 
+ 
